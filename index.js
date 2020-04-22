@@ -1,6 +1,10 @@
 // Write your classes here
 class Tree {
-  constructor(){
-    
+  constructor(species){
+    this._species = species;
+  }
+  
+  static definition(){
+    return ``
   }
 }
